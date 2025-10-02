@@ -16,4 +16,3 @@ I am particularly interested in:
 **Frameworks & Tools:** Express.js, Node.js, React, Hardhat, Jest, Supertest  
 **Cloud & DevOps:** GitHub Actions, Docker, Vercel, Netlify, Agile, Scrum  
 **Databases:** MongoDB, MySQL  
-**Specialized Areas:** Machine Learning, NLP, Blockchain (Ethereum), Computer Networks, IoT (ESP32, FreeRTOS)
