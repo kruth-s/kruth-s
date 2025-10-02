@@ -21,34 +21,6 @@ I am particularly interested in:
 
 ---
 
-## Selected Projects
-
-### 1. FinSmart – AI-Driven Personal Finance Tracker
-- Developed the backend for a full-stack finance application with **Google & GitHub OAuth authentication**, **MongoDB integration**, and **Gemini API-powered AI insights**.  
-- Implemented **CI/CD pipelines**, backend testing strategies, and WebSocket-based real-time AI updates.  
-- Project followed **Agile principles** with sprint planning, testing, and DevOps practices.
-
-### 2. Crowdfunding DApp (Decentralized Application)
-- Built a blockchain-based crowdfunding platform using **Solidity, Hardhat, and Ethereum Sepolia Testnet**.  
-- Implemented smart contracts for project creation, contributions, and withdrawal governance through voting.  
-- Integrated with a React frontend and deployed on Vercel.  
-- Source: [GitHub Repository](https://github.com/Kruthik-S/CrowdFunding-Dapp-solidity)
-
-### 3. Phishing Website Detection using Machine Learning
-- Implemented feature extraction from URLs, HTML, and website behavior.  
-- Trained and evaluated models like **Random Forest and Gradient Boosting** with strong performance metrics.  
-- Focused on explainability and robustness in cybersecurity applications.
-
-### 4. AI-Powered Image Tagging using Generative & Vision-Language Models
-- Implemented a tagging system using **BLIP, CLIP, and KeyBERT** on Google Colab.  
-- Combined vision-language understanding with NLP-based keyword extraction for automated image annotation.
-
-### 5. Telecommunication Network Design (Packet Tracer)
-- Designed and simulated a telecom network layout with **routing, switching, and IP configuration**.  
-- Documented system design and implementation in a professional project report.
-
----
-
 ## Academic Work & Coursework
 - **Agile Software Engineering** – Scrum methodology, sprint management, Agile testing  
 - **Computer Networks (IP Layer)** – IP addressing, subnetting, DHCP, ICMP, NAT, ARP  
