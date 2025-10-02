@@ -6,8 +6,7 @@ My academic journey and project work reflect a blend of **theoretical knowledge 
 
 I am particularly interested in:  
 - Backend development and system design  
-- Agile & DevOps practices (CI/CD, containerization, monitoring)  
-- Cloud-based applications and microservices  
+- Agile & DevOps practices (CI/CD, containerization, monitoring)   
 - Artificial Intelligence and Data Engineering
 
 ---
