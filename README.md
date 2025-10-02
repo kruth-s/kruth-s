@@ -18,27 +18,3 @@ I am particularly interested in:
 **Cloud & DevOps:** GitHub Actions, Docker, Vercel, Netlify, Agile, Scrum  
 **Databases:** MongoDB, MySQL  
 **Specialized Areas:** Machine Learning, NLP, Blockchain (Ethereum), Computer Networks, IoT (ESP32, FreeRTOS)
-
----
-
-## Academic Work & Coursework
-- **Agile Software Engineering** – Scrum methodology, sprint management, Agile testing  
-- **Computer Networks (IP Layer)** – IP addressing, subnetting, DHCP, ICMP, NAT, ARP  
-- **IoT with ESP32 & FreeRTOS** – Task scheduling, message queues, IPC mechanisms  
-- **Mathematics for Computing** – Calculus, derivatives, directional derivatives, gradient descent
-
----
-
-## GitHub Highlights
-- [FinSmart Backend & Reports]  
-- [Crowdfunding DApp – Solidity + React]  
-- [Phishing Website Detection – ML Project]  
-- [AI Image Tagging – Vision-Language Models]  
-- [Telecom Network Simulation]
-
----
-
-## Contact
-- **Email:** your.email@example.com  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-- **GitHub:** [github.com/Kruthik-S](https://github.com/Kruthik-S)
